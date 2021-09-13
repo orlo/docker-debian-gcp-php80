@@ -27,5 +27,4 @@ docker build \
 
 ## Todo
 
- * Add checksum checking on the downloaded pecl tgz files.
  * Link better to Debian/Debsury.org so we rebuild on change of those files
